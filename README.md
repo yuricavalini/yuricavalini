@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2192FF&height=120&section=header"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Yuri Cavalini</h1>
 
 - 🔥 I'm a web-focused developer, also passionate about mobile development.
@@ -62,3 +63,5 @@
  <img align="center" src="https://img.shields.io/badge/-yuricavalini-05122A?style=flat&logo=discord" alt="discord"/>
 </a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2192FF&height=120&section=footer"/>
