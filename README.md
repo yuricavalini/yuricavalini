@@ -47,6 +47,10 @@
 
 <br><br>
 
+![Snake animation](https://github.com/yuricavalini/yuricavalini/blob/output/github-contribution-grid-snake.svg)
+
+<br><br>
+
 ## Contact
 
 <p align="left">
