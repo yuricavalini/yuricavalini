@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm currently working as Full Stack Developer.
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp; Technologies I like to use in my projects
 
@@ -36,7 +36,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)
 
-<br><br>
+<br>
 
 <!-- ## ⚙️ &nbsp;GitHub Analytics -->
 
@@ -45,11 +45,11 @@
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuricavalini&layout=compact&theme=vision-friendly-dark" alt="yuricavalini's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ![Snake animation](https://github.com/yuricavalini/yuricavalini/blob/output/github-contribution-grid-snake.svg)
 
-<br><br>
+<br>
 
 ## Contact
 
