@@ -37,7 +37,7 @@
 
 ## Contact
 
-<div>
+<div align="center">
   <a title="yuricavalini@gmail.com" href="mailto:yuricavalini@gmail.com?subject=Contact" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
