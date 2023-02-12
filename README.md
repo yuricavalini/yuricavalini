@@ -3,7 +3,6 @@
 
 ##
 
-<!-- - 🔥 I'm a web-focused developer, also passionate about mobile development. -->
 - 🔥 I'm a developer focused on web systems, also passionate about mobile development, with two years of professional experience.
 
 - 👨‍💻 I'm dedicated to building efficient solutions to solve complex problems and help companies transform their processes and achieve their goals through technology.
