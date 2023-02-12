@@ -3,13 +3,16 @@
 
 ##
 
-- 🔥 I'm a web-focused developer, also passionate about mobile development.
+<!-- - 🔥 I'm a web-focused developer, also passionate about mobile development. -->
+- 🔥 I'm a developer focused on web systems, also passionate about mobile development, with two years of professional experience.
 
-- 👨‍💻 I'm currently working as Full Stack Developer.
+- 👨‍💻 I'm dedicated to building efficient solutions to solve complex problems and help companies transform their processes and achieve their goals through technology.
+
+- 🏡 Currently working from home as a Full Stack Developer.
 
 <br>
 
-## 🛠 &nbsp; Main technologies I work daily
+## 🛠️ &nbsp; Main technologies I work daily
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" title="Javascript" alt="Yuri-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  />
@@ -35,7 +38,7 @@
 
 <br>
 
-## Contact
+## 📧 &nbsp; Contact
 
 <div align="center">
   <a title="yuricavalini@gmail.com" href="mailto:yuricavalini@gmail.com?subject=Contact" target="_blank">
