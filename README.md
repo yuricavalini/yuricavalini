@@ -3,7 +3,7 @@
 
 ##
 
-- 🔥 I'm a developer focused on web systems, also passionate about mobile development, with two years of professional experience.
+- 🔥 I'm a developer focused on web systems with four years of professional experience.
 
 - 👨‍💻 I'm dedicated to building efficient solutions to solve complex problems and help companies transform their processes and achieve their goals through technology.
 
@@ -18,7 +18,6 @@
   <img align="center" title="Typescript" alt="Yuri-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" title="HTML5" alt="Yuri-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" title="CSS3" alt="Yuri-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" title="ReactJs" alt="Yuri-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" title="Angular" alt="Yuri-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" title="NodeJs" alt="Yuri-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" title="Firebase" alt="Yuri-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
